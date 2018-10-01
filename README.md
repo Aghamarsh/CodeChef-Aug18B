@@ -1,6 +1,6 @@
 # CodeChef-Aug18B
 
-### My slutions to CodeChef August Long Challenge
+### My solutions to CodeChef August Long Challenge
 
 ## Problem Links
 
